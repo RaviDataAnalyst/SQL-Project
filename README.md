@@ -1,3 +1,1 @@
-# SQL-Project
-Sports analysis using PostgreSQL.
-Analyse IPL data set contains two large csv files contains ball-by-ball data from 2008 to 2018 and Match-wise data.
+1.  Conduct a comprehensive analysis of IPL data spanning from 2008 to 2020, leveraging PostgreSQL for efficient querying and insights extraction.
